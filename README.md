@@ -241,23 +241,26 @@ ORDER BY freight_percentage ASC
 ## 🚀 How to Run This Project
 
 ### Python:
-```bash
-pip install pandas openpyxl jupyter
-cd "D:\DA Projects\Olist_Dataset"
-jupyter notebook
-```
-Open `Data_Cleaning.ipynb` and run all cells
+### Data Cleaning
+1. ![Data_Cleaning]("D:\DA Projects\Olist_Dataset\Data_Cleaning.ipynb")
 
 ### SQL:
-1. Open SQL Server Management Studio
-2. Create database: `CREATE DATABASE OlistDB`
-3. Import cleaned CSV files
-4. Run queries from `/sql/` folder in order
+### Customer Geographical Analysis
+1. ![Customer_Geographical_Analysis]("D:\DA Projects\Olist_Dataset\Customer & Geographical Analysis.sql")
+### Sales & Revenue Analysis
+2. ![Sales & Revenue_Analysis]("D:\DA Projects\Olist_Dataset\Sales & Revenue Analysis.sql")
+### Freight & Shipping Analysis
+3. ![Freight & Shipping_Analysis]("D:\DA Projects\Olist_Dataset\Freight & Shipping Analysis.sql")
+### Delivery Performance Analysis
+4. ![Delivery Performance Analysis]("D:\DA Projects\Olist_Dataset\Delivery Performance Analysis.sql")
 
-### Power BI:
-1. Open `Olist_Report.pbix`
-2. Update data source path if needed
-3. Click Refresh
+### PowerBI:
+### Page 1 — Executive Summary
+1. ![Executive Summary]("D:\DA Projects\Olist_Dataset\Executive-Summary.png")
+### Page 2 — Customer Analysis
+2. ![Customer_Analysis]("D:\DA Projects\Olist_Dataset\Customer_Analysis.png")
+### Page 2 — Customer Analysis
+3. ![Seller & Delivery]("D:\DA Projects\Olist_Dataset\Seller & Delivery.png")
 
 ---
 
