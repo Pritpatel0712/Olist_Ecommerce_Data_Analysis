@@ -1,4 +1,4 @@
-# 🛒 Brazilian E-Commerce Analysis — Olist Dataset
+# 🛒 E-Commerce Analysis — Olist Dataset
 
 ## 📌 Project Overview
 This is an end-to-end data analysis project based on the **Olist Brazilian E-Commerce Dataset**. The project covers the complete data analyst workflow — from raw data to business insights — using Python, SQL Server, and Power BI.
