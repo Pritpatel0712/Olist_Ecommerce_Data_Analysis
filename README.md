@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Brazilian E-Commerce Analysis
+# 🛒 E-Commerce Analysis
 ## Olist Dataset — End to End Data Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
